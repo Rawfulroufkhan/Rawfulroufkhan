@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rawfulroufkhan
 - 👀 I’m interested in machine learning 
-- 📫 How to reach me rawfulrouf@gmail.com is  my gmail
+- 📫 How to reach me ? rawfulrouf@gmail.com is  my gmail
 - 😄 Pronouns: he/him
 
 <!---
